@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+
+git init
+git add .
+git commit -m "firstpush"
